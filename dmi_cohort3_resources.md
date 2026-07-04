@@ -18,9 +18,9 @@
 
 ---
 
-## IMPORTANT FOR LINKEDIN AND BLOG POSTS - Always add the below line and the hashtags
+## IMPORTANT FOR LINKEDIN POSTS - Always add the below line
 
-> **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining the DMI waiting list: https://forms.gle/3hvrWJBDzsDeJoPs6**
+> **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
 
 #DMIByPravinMishra 
 
@@ -130,86 +130,16 @@ Screenshots are a **mandatory requirement** for every assignment.
 
 * **Assignment Submission Form:**: [Click here](https://forms.gle/mTKDwJNU5vyNLbAFA)
 
-Week-1 is **one assignment file** (`assignment-01-mindset-os.md`) containing 7 reflection prompts — all 7 must be genuinely filled in for the file to pass:
+Week-1 contains 7 assignments
 
-1. What is something you believe to be true that most people around you would disagree with?
-2. What are the top 3 objective truths you discovered through experimentation and results?
-3. What does your 2.0 version look like?
-4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
-5. What are 10 non-fiction books you plan to read in the next 1 year?
-6. What are the things you will measure regularly in your life and career?
-7. Brain dump + 5-month system plan
-
-| Item | Points |
-|------|:------:|
-| Assignment file (all 7 prompts, pass/fail) | 20 |
-| LinkedIn post | 10 |
-| Blog post (any topic of your choice) | 30 |
-| **Total** | **60** |
-
-
----
-
-<br> <br>
-
-## Week-2 — Agentic AI
-
-| S. No. | Item                                | Comments                                                                                         | Link                                                    |
-| ------ | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| 1 | Week-2 Class Recording | ⚠️ Link needs fixing — this currently points to the same video as the Week-1 recording above | [YouTube](https://youtube.com/live/nxFy-HoDqu4?feature=share) |
-
-
----
-
-### Week 2: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
-
-* **Deadline - Friday, 10th of July 11:59 PM (your local time)** 
-
-* **Assignment Submission Form:**: [Click here](https://forms.gle/GLC4HaBugrQCDaxK7)
-
-Week-2 is **8 assignment files**, each graded pass/fail:
-
-| Assignment   | Name                                          | Points |
-| ------------ | ---------------------------------------------- | :----: |
-| Assignment-1 | Your First Agentic Session                     | 20     |
-| Assignment-2 | Teaching Claude Your Project (CLAUDE.md)       | 20     |
-| Assignment-3 | Building Your Command Center (Skills)          | 20     |
-| Assignment-4 | Building Your AI Team (Subagents)              | 20     |
-| Assignment-5 | Connecting Claude to the Outside World (MCP)   | 20     |
-| Assignment-6 | Safety Rails for Your AI Agent                 | 20     |
-| Assignment-7 | A Claude That Remembers (Memory)               | 20     |
-| Assignment-8 | Week 2 Reflection Blog                         | 20     |
-| — | LinkedIn post                                             | 10     |
-| — | Blog post                                                  | 30     |
-| **Total** | | **200** |
-
----
-
-## Week-3 — Linux for DevOps with Bash Scripting
-
-| S. No. | Item | Comments | Link |
-|--------|------|----------|------|
-| 1 | Week-3 Class Recording | Watch the recording of the Week-3 live class on YouTube | [YouTube](https://youtube.com/live/8xyHctymcXI?feature=share) |
-
----
-
-### Week 3: Assignments Submission Guidelines – DevOps Micro Internship (DMI) Cohort-3
-
-* **Deadline - Friday, 17th of July 11:59 PM (your local time)**
-
-* **Assignment Submission Form:**: [Click here](https://forms.gle/KgE3YhGD8y71mGhC8)
-
-Week-3 is **6 assignment files**, each graded pass/fail — your blog post for the week is scored separately below, it isn't a 7th assignment file:
-
-| Assignment | Name | Points |
-|------------|------|:------:|
-| Assignment-1 | AWS Free Tier Account Setup | 20 |
-| Assignment-2 | Deploy a React App on Ubuntu VM Using Nginx | 20 |
-| Assignment-3 | Production Maintenance Drill (OPS Checklist) | 20 |
-| Assignment-4 | Deploy EpicReads Portfolio Website via Nginx | 20 |
-| Assignment-5 | Bash Script Automation Drill (OPS Checklist) | 20 |
-| Assignment-6 | Build an AI-Assisted Linux Health Check | 20 |
-| — | LinkedIn post | 10 |
-| — | Blog post | 30 |
-| **Total** | | **160** |
-
+| S. No. | Assignment | Correct task execution | Post on LinkedIn with PS | Marks |
+|--------|-----------|:----------------------:|:------------------------:|:-----:|
+| 1 | Assignment-1: What is something you believe to be true that most people around you would disagree with? | 10 | — | 10 |
+| 2 | Assignment-2: What are the top 3 objective truths you discovered through experimentation and results? | 10 | — | 10 |
+| 3 | Assignment-3: What does your 2.0 version look like? | 10 | 10 | 20 |
+| 4 | Assignment-4: Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel? | 10 | — | 10 |
+| 5 | Assignment-5: What are 10 non-fiction books you plan to read in the next 1 year? | 10 | — | 10 |
+| 6 | Assignment-6: What are the things you will measure regularly in your life and career? | 10 | 10 | 20 |
+| 7 | Assignment-7: Brain dump + 5-month system plan | 10 | — | 10 |
+| — | Self written Blog (Bonus) - Any topic of your choice | — | — | 30 |
+| **Total** | | | | **120** |
