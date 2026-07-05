@@ -26,7 +26,6 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 ## 4. Learning Outcomes
 
 - Install and authenticate Claude Code CLI
-- Set up the VS Code Claude Code extension
 - Fork and clone the course starter repository
 - Observe the three phases of the Agentic Loop: Gather, Act, Verify
 - Understand how Claude Code differs from Claude chat
@@ -47,9 +46,9 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 ## 6. Prerequisites
 
 - Node.js and npm installed (`node --version` works)
-- Git installed and configured
+- Git installed and configured (Verify using `git --version`)
 - GitHub account
-- VS Code installed
+- VS Code installed (Vrify using `code --version`)
 - Claude subscription (Pro plan minimum)
 
 ---
@@ -90,7 +89,7 @@ claude
 **Goal:** Get your own copy of the course project onto your machine.
 
 **Steps:**
-1. Go to the course [repository link](https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code) in the Resources section of [Fork the reposiroty](https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/learn/lecture/54808941#overview). 
+1. Open the [repository link](https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code) in your browser.
 2. Click **Fork → Create Fork**
 3. Clone your fork to your local machine
 4. Open the project in VS Code
@@ -169,7 +168,6 @@ Not required for this assignment.
 Before submission, verify:
 - [ ] Claude Code CLI installed and `claude --version` works
 - [ ] Claude Code authenticated — opens without asking for login again
-- [ ] VS Code extension installed and Claude Code panel visible
 - [ ] Starter repo forked and cloned
 - [ ] All 5 screenshots captured and added to your GitHub Repository file
 - [ ] GitHub repo URL included
