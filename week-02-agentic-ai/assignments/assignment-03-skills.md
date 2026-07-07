@@ -174,7 +174,7 @@ Your submission must include:
 ## 10. Solution Walkthrough
 
 A step-by-step solution and troubleshooting guide is available for reference:
-Full solution walkthrough → (LINK)
+Full solution walkthrough → [Click here](../Solutions_walkthrough/assignment-03-skills.md)
 
 ---
 
