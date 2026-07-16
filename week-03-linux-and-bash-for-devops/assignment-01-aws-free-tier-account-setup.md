@@ -32,7 +32,9 @@ AWS Free Tier allows new users to explore and use AWS services at no cost within
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Amazon EC2 – 750 hours per month of eligible t2.micro or t3.micro instances for 12 months.
+Amazon S3 – 5 GB of Standard Storage for 12 months.
+AWS Lambda – 1 million free requests and 400,000 GB-seconds of compute time per month (Always Free).
 
 ---
 
