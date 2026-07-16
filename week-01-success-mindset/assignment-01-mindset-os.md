@@ -205,7 +205,7 @@ It's something we build—one decision, one project, one lesson, and one person 
 
 Paste your link here:
 
-`__________________________`
+`Add your URL here`
 
 ---
 
@@ -444,7 +444,7 @@ Waking up 4:00am to finish my morning chores and starting my intensive 8 hours s
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`Add your URL here`
 
 ---
 
