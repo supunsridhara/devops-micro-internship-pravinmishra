@@ -20,13 +20,13 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
-Add your screenshot here.
+![screenshot](screenshots/Task%201%20ss1.png)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-Add your screenshot here.
+![screenshot](screenshots/Task%201%20ss%202.png)
 
 ---
 
@@ -134,25 +134,25 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
-Add your screenshot here.
+![screenshot](screenshots/Task%204%20ss%205.png)
 
 ---
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-Add your screenshot here.
+![screenshot](screenshots/Task%204%20ss%206.png)
 
 ---
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
-Add your screenshot here.
+![screenshot](screenshots/Task%204%20ss%207.png)
 
 ---
 
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
-Add your screenshot here.
+![screenshot](screenshots/Task%204%20ss%208.png)
 
 ---
 
@@ -200,13 +200,13 @@ Run the Bash script against the healthy server and verify that it creates a repo
 
 #### Screenshot 9 — Output of `./scripts/linux-triage.sh` showing your Full Name and all five check results
 
-Add your screenshot here.
+![screenshot](screenshots/Task%205%20ss%209.png)
 
 ---
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
-Add your screenshot here.
+![screenshot](screenshots/Task%205%20ss%2010.png)
 
 ---
 
@@ -470,7 +470,7 @@ Add your answer here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/chukwuemelie-kelvin-nebeolisa_assignment-9-build-an-ai-assisted-linux-health-activity-7483653307937300480-A_n1?
 
 `Add your URL here`
 
@@ -478,7 +478,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![screenshot](screenshots/linkedin-Ai.png)
 
 ---
 
@@ -488,7 +488,13 @@ Paste the URL of your GitHub folder or repository containing the assignment file
 
 `Add your URL here`
 
----
+
+#  Reflection Blog
+
+https://medium.com/@chukwuemelieoguejiofor/reflection-week-3-f3a249dc56e8
+
+
+`Add your URL here`
 
 # Submission Instructions
 

@@ -21,7 +21,7 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
 Write your answer here.
-An AWS account is your personal gateway to Amazon Web Services (AWS). It gives you access to cloud services such as virtual servers, storage, databases, networking, and security tools. At this stage, having an AWS account is essential because it provides a hands-on environment to practice, build, and deploy real cloud projects instead of only learning the concepts theoretically. It also allows us to gain practical experience with the same tools used by organizations in production environments.
+An AWS account is our personal gateway to Amazon Web Services (AWS). It gives you access to cloud services such as virtual servers, storage, databases, networking, and security tools. At this stage, having an AWS account is essential because it provides a hands-on environment to practice, build, and deploy real cloud projects instead of only learning the concepts theoretically. It also allows us to gain practical experience with the same tools used by organizations in production environments.
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
@@ -32,7 +32,6 @@ AWS Free Tier is a program offered by Amazon Web Services that allows new users 
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
 Amazon EC2 (Elastic Compute Cloud)
 Free Usage: Up to 750 hours per month of eligible t2.micro or t3.micro instances (depending on region) for 12 months.
 Purpose: Run virtual servers in the cloud.
@@ -66,7 +65,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-![screenshot](screenshots/Real-aws-console.png)
+![screenshot](screenshots/01-aws-console.png)
 
 ---
 
