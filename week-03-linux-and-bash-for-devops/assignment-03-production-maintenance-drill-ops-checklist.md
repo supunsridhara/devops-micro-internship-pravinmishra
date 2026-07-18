@@ -123,19 +123,22 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+<img width="1294" height="740" alt="31" src="https://github.com/user-attachments/assets/0c869af2-6e5a-4efa-a626-eff26f6eb7d3" />
+.
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+<img width="1303" height="114" alt="32" src="https://github.com/user-attachments/assets/1319dfc7-ef3e-4f72-a917-da8b59ad142c" />
+
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+<img width="1294" height="213" alt="33" src="https://github.com/user-attachments/assets/64dd2e82-977f-4ace-8728-5fab3e03f854" />
+.
 
 ---
 
@@ -148,19 +151,19 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+No. There were no errors in the Nginx logs.
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+it indicates that the Nginx service is running correctly and the system is functioning as expected.
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes. The curl requests were visible in the Nginx access logs. This proves that the requests successfully reached the Nginx server and were processed correctly.
 
 ---
 
