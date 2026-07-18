@@ -215,8 +215,8 @@ Disk space is the most critical resource because if the disk becomes full, the s
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-If the disk becomes 100% full, applications may stop working, logs cannot be written, updates may fail, and the server can become unstable or unavailable.
----
+
+-applications may stop working, logs cannot be written, updates may fail, and the server can become unstable or unavailable
 
 # Task 5 — Configuration & Deployment Verification
 
