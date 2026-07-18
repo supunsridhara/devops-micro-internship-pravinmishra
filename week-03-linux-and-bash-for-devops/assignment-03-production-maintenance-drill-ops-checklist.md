@@ -52,19 +52,19 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+The output of sudo ss -tulpn shows 0.0.0.0:80, which confirms that Nginx is listening on port 80 and can accept connections from any network interface.
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+The output of sudo ss -tulpn  shows 0.0.0.0:22, which confirms that the SSH service is running and listening on port 22.
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+No. I did not find any unexpected open ports. Only the required ports, such as SSH (22) and HTTP (80), were open.
 
 ---
 
