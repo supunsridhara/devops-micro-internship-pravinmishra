@@ -177,25 +177,29 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+<img width="1284" height="83" alt="41" src="https://github.com/user-attachments/assets/bd076c2d-c78e-41b7-b859-e3f8a1b8fe08" />
+
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+<img width="1303" height="177" alt="42" src="https://github.com/user-attachments/assets/6a5f2357-3216-4050-9e70-7205933bbdf7" />
+
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+<img width="1288" height="378" alt="43" src="https://github.com/user-attachments/assets/e3203991-b6ef-4b8f-9a94-d06e8476b3dc" />
+
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+<img width="1294" height="578" alt="44" src="https://github.com/user-attachments/assets/d87cbe91-4155-4d47-a3f0-273d6f562b91" />
+
 
 ---
 
@@ -205,14 +209,13 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+Disk space is the most critical resource because if the disk becomes full, the server may not be able to store logs, application files, or updates, which can affect system performance and availability.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
-
+If the disk becomes 100% full, applications may stop working, logs cannot be written, updates may fail, and the server can become unstable or unavailable.
 ---
 
 # Task 5 — Configuration & Deployment Verification
