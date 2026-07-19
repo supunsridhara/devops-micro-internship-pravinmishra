@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+One thing I believe that many people around me disagree with is that changing careers is not a failure. I have studied engineering and IT and have also worked in different jobs while building my career. I believe every experience teaches valuable skills. Success comes from continuously learning and adapting, not from staying on one fixed career path.
 
 ---
 
@@ -55,23 +55,23 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent effort produces better results than working only when motivated.
 
 ### Evidence from my life
 
-Add your answer here...
+I completed multiple engineering degrees while working part-time in different jobs. By studying regularly and managing my time, I successfully graduated and gained valuable work experience.
 
 ---
 
 ## Truth #2
 
-### Truth
+Practical experience improves skills faster than only studying theory.
 
-Add your answer here...
+
 
 ### Evidence from my life
 
-Add your answer here...
+I worked in engineering, IT, cleaning, and hospitality roles. Each job taught me new skills that I could not have learned from books alone.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Learning new skills increases career opportunities.
 
 ### Evidence from my life
 
-Add your answer here...
+I learned programming, data analysis, and automation in addition to my engineering background. These skills allowed me to apply for a wider range of jobs and research positions.
 
 ---
 
@@ -135,13 +135,23 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+What does my 2.0 version look like?
+
+Supun Rankothge: From Continuous Learning to Technology Leadership
+Over the past several years, Supun Rankothge established himself as a skilled automation and AI engineer in Finland by combining his engineering background with practical industry experience. He built intelligent software solutions that improved industrial processes, reduced manual work, and increased operational efficiency. His work demonstrated that continuous learning and persistence could create opportunities across multiple industries.
+Supun earned a full-time engineering role where he led automation and data-driven projects using Python, machine learning, cloud technologies, and industrial automation tools. He shipped several successful software and process automation solutions that helped organizations improve productivity and reduce operational costs. His technical portfolio and GitHub repository showcased projects involving artificial intelligence, data analytics, IoT, and smart manufacturing systems.
+In addition to his professional work, Supun published technical articles and project documentation that helped students and early-career engineers understand practical applications of AI and automation. He completed industry-recognized certifications in cloud computing, software development, and data engineering, strengthening his expertise and expanding his professional network.
+His leadership extended beyond the workplace. He mentored junior engineers, participated in technology meetups, and contributed to open-source projects. He shared knowledge through workshops and online communities, encouraging others to develop practical engineering skills and embrace lifelong learning.
+Supun also contributed to research by collaborating with universities and industry partners on projects related to artificial intelligence, digital transformation, and smart industrial systems. His research findings and technical contributions were presented at conferences and published in respected journals, further establishing his reputation in the engineering community.
+By consistently building projects, publishing his work, contributing to the community, and expanding his technical expertise, Supun transformed his career into one defined by innovation, leadership, and measurable impact. His journey became an example of how determination, adaptability, and continuous skill development could lead to long-term success in the rapidly evolving technology industry.
+
+**P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://lnkd.in/dkPeb7Nm). You can start your DevOps journey by joining this [Discord community](https://lnkd.in/d3sQDC3J) ( https://lnkd.in/d3sQDC3J )
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://www.linkedin.com/feed/update/urn:li:activity:7478878317400506368/
 
 ---
 
@@ -173,7 +183,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt guilty and uncomfortable. As a student, I have sometimes taken small shortcuts because of deadlines or pressure. Even though it helped me finish faster, I did not feel proud of it. I kept thinking that I should have done the work properly on my own. That experience taught me that honesty is more important than saving time. Since then, I have tried to manage my time better, learn from my mistakes, and complete my work with integrity.
 
 ---
 
@@ -199,16 +209,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Clean Code – Robert C. Martin ![alt text](screenshots/1jqmhg_1116889_0.jpg)
+2. The DevOps Handbook – Gene Kim, Jez Humble, Patrick Debois & John Willis
+3. Designing Data-Intensive Applications – Martin Kleppmann
+4. The Linux Command Line – William Shotts
+5. Start with Why – Simon Sinek
+6. Essentialism: The Disciplined Pursuit of Less – Greg McKeown
+7. Rich Dad Poor Dad – Robert T. Kiyosaki
+8. How to Win Friends and Influence People – Dale Carnegie
+9. The Personal MBA – Josh Kaufman
+10. Make Time – Jake Knapp & John Zeratsky
 
 ---
 
@@ -237,16 +247,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Hours spent learning DevOps, AI, and cloud technologies
+* Hands-on projects completed in Python, Docker, Kubernetes, and AWS
+* GitHub commits and portfolio updates
+* Research papers, technical articles, or blogs published
+* New professional certifications earned
+* Physical exercise and daily walking
+* Sleep quality and daily energy level
+* Time spent on focused work instead of distractions
+* Monthly savings and investment progress
+* Professional network growth through LinkedIn, conferences, and technology communities
 
 ---
 
@@ -272,7 +282,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes, I completed a brain dump by writing down my tasks, career goals, learning plans, job applications, personal responsibilities, financial matters, and ideas for future projects. It helped me organize my thoughts and identify my priorities more clearly.
 
 ---
 
@@ -290,7 +300,13 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday: Complete DevOps assignments.
+Tuesday: Practice DevOps labs.
+Wednesday: Study for certifications.
+Thursday: Work on projects and assignments.
+Friday: Review topics and prepare for class.
+Saturday: Attend the 8-hour DevOps class.
+Sunday: Revise, update GitHub, and plan the next week.
 
 ---
 
@@ -298,11 +314,18 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Focus Blocks (DMI Work)
+Monday: 6:00 PM – 8:00 PM
+Tuesday: 6:00 PM – 8:00 PM
+Wednesday: 6:00 PM – 8:00 PM
+Thursday: 6:00 PM – 8:00 PM
+Friday: 6:00 PM – 7:30 PM
+Saturday: 9:00 AM – 5:00 PM (DevOps class)
+Sunday: 10:00 AM – 12:00 PM (Revision and weekly planning)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+7 sessions per week
 
 ---
 
@@ -316,7 +339,12 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone on silent during study sessions.
+Avoid social media until I finish my daily tasks.
+Study in a quiet place with a clean desk.
+Turn off unnecessary notifications on my laptop.
+Focus on one task at a time.
+Take a 10-minute break after every 2 hours of study.
 
 ---
 
@@ -324,27 +352,36 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I achieve more when I stay consistent and follow a clear plan.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I sometimes spend too much time thinking instead of starting my work.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will study DevOps every Monday to Friday from 6:00 PM to 8:00 PM without using my phone.
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+📘 Week 1 Reflection – My DevOps Learning Journey
+This week reminded me that progress comes from consistency, not perfection.
+Here are my key takeaways:
+✅ Biggest insight: I achieve more when I stay consistent and follow a clear plan.
+⚡ Biggest weakness: I sometimes spend too much time thinking before I start my work.
+🎯 New habit: From this week onward, I will study DevOps every Monday to Friday from 6:00 PM to 8:00 PM without using my phone.
+Small daily improvements can lead to big results over time. I'm excited to continue learning, building projects, and growing my skills in DevOps and cloud technologies.
+#DevOps #ContinuousLearning #CareerGrowth #CloudComputing #AWS #Linux #Docker #LearningJourney
+**P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://lnkd.in/dkPeb7Nm). You can start your DevOps journey by joining this [Discord community](https://lnkd.in/d3sQDC3J) ( https://lnkd.in/d3sQDC3J )
 
-`Add your URL here`
+`https://www.linkedin.com/feed/update/urn:li:activity:7478899006819975168/
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/feed/update/urn:li:activity:7478878317400506368/
+**[ADD LINK HERE](https://www.linkedin.com/feed/update/urn:li:activity:7478899006819975168/)**  
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
