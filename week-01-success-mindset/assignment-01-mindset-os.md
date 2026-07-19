@@ -209,8 +209,10 @@ Choose books that improve:
 
 ## Book List
 
-1. Clean Code – Robert C. Martin ! ! ![alt text](Capture.JPG)
-2. The DevOps Handbook – Gene Kim, Jez Humble, Patrick Debois & John Willis !![alt text](2.jpg)
+1. Clean Code – Robert C. Martin 
+[alt text](Capture-1.JPG)
+2. The DevOps Handbook – Gene Kim, Jez Humble, Patrick Debois & John Willis 
+[alt text](2.jpg)
 3. Designing Data-Intensive Applications – Martin Kleppmann !![alt text](s-l1600.webp)
 4. The Linux Command Line – William Shotts !![alt text](71PfXiJBq1L._AC_UF1000,1000_QL80_.jpg)
 5. Start with Why – Simon Sinek !![alt text](images.jfif)
