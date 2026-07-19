@@ -209,16 +209,26 @@ Choose books that improve:
 
 ## Book List
 
-1. Clean Code – Robert C. Martin ![alt text](Capture-2.JPG)
-2. The DevOps Handbook – Gene Kim, Jez Humble, Patrick Debois & John Willis ![alt text](2-1.jpg)
-3. Designing Data-Intensive Applications – Martin Kleppmann ![alt text](s-l1600.webp)
-4. The Linux Command Line – William Shotts ![alt text](71PfXiJBq1L._AC_UF1000,1000_QL80_.jpg)
-5. Start with Why – Simon Sinek ![alt text](images.jfif)
-6. Essentialism: The Disciplined Pursuit of Less – Greg McKeown ![alt text](book-Essentialism-The-Disciplined-Pursuit-of-Less-600x600.jpg)
-7. Rich Dad Poor Dad – Robert T. Kiyosaki ![alt text](81bsw6fnUiL._AC_UL600_SR600,600_.jpg)
-8. How to Win Friends and Influence People – Dale Carnegie ![alt text](Capture6.JPG)
-9. The Personal MBA – Josh Kaufman ![alt text](Capture2.JPG)
-10. Make Time – Jake Knapp & John Zeratsky![alt text](Capture3.JPG)
+1. Clean Code – Robert C. Martin 
+![alt text](Capture-2.JPG)
+2. The DevOps Handbook – Gene Kim, Jez Humble, Patrick Debois & John Willis 
+![alt text](2-1.jpg)
+3. Designing Data-Intensive Applications – Martin Kleppmann 
+![alt text](s-l1600.webp)
+4. The Linux Command Line – William Shotts 
+![alt text](71PfXiJBq1L._AC_UF1000,1000_QL80_.jpg)
+5. Start with Why – Simon Sinek 
+![alt text](images.jfif)
+6. Essentialism: The Disciplined Pursuit of Less – Greg McKeown 
+![alt text](book-Essentialism-The-Disciplined-Pursuit-of-Less-600x600.jpg)
+7. Rich Dad Poor Dad – Robert T. Kiyosaki 
+![alt text](81bsw6fnUiL._AC_UL600_SR600,600_.jpg)
+8. How to Win Friends and Influence People – Dale Carnegie 
+![alt text](Capture6.JPG)
+9. The Personal MBA – Josh Kaufman 
+![alt text](Capture2.JPG)
+10. Make Time – Jake Knapp & John Zeratsky
+![alt text](Capture3.JPG)
 
 ---
 
