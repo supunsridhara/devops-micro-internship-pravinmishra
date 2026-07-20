@@ -313,13 +313,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-![alt text](7.JPG) ![alt text](71.JPG)
+![alt text](7-1.JPG) ![alt text](71.JPG)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![alt text](8-1.JPG) ![alt text](81.JPG)
+![alt text](8.JPG) ![alt text](81.JPG)
 
 ---
 
