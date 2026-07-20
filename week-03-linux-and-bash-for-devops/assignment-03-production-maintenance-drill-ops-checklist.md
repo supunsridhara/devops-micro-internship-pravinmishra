@@ -287,19 +287,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+The configuration failed because the Nginx settings were not correct. The try_files rule was missing or configured incorrectly, so Nginx could not serve the React application properly. After fixing the configuration and restarting Nginx, the application worked correctly.
 
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+I fixed the issue by updating the Nginx configuration, adding the correct try_files rule, testing the configuration with nginx -t, and reloading the Nginx service. After that, the React application loaded correctly.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+This kind of issue can be avoided by reviewing the configuration before deployment, testing the changes in a staging environment, validating the configuration with nginx -t, and monitoring the application after deployment.
 
 ---
 
@@ -313,13 +313,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+![alt text](7.JPG) ![alt text](71.JPG)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![alt text](8-1.JPG) ![alt text](81.JPG)
 
 ---
 
@@ -329,19 +329,21 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application broke because the original /var/www/html folder, which contained the website files, was removed and replaced with an empty folder. Since Nginx could not find the required files, it returned a 500 Internal Server Error. Restoring the original folder and restarting Nginx fixed the problem.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+How did you fix the issue and restore the application?
+
+I restored the original /var/www/html folder from the backup and restarted the Nginx service. After that, I verified the application using curl, and it returned HTTP 200 OK, confirming that the application was working correctly.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+To prevent this kind of issue, I would create backups before making changes, test updates in a staging environment, verify the configuration after deployment, and monitor the application to detect problems quickly.
 
 ---
 
@@ -357,19 +359,19 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+SSH key-based authentication is more secure because it uses a unique cryptographic key instead of a password. It is much harder to guess or steal, reduces the risk of brute-force attacks, and allows secure access without sharing passwords.
 
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Only the required ports should be open to reduce security risks. Closing unnecessary ports helps prevent unauthorized access and protects the server from attacks.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+It is important to enable Nginx on boot so that the web server starts automatically after the server restarts. This keeps the website available without requiring manual intervention.
 
 ---
 
@@ -381,7 +383,7 @@ Write your answer here.
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Cloud resources should be stopped or terminated when they are no longer needed to avoid unnecessary costs, save resources, and improve security by reducing unused services.
 
 ---
 
@@ -393,13 +395,13 @@ Write your answer here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[`Add your URL here`](https://www.linkedin.com/feed/update/urn:li:activity:7485003327483797505/)
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![alt text](Capture.JPG)
 
 ---
 
