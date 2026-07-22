@@ -130,7 +130,7 @@ Week 01 → Success Mindset
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | https://www.linkedin.com/feed/update/urn:li:activity:7473968528786841600/ | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Completed | https://www.linkedin.com/feed/update/urn:li:activity:7478878317400506368/ https://www.linkedin.com/feed/update/urn:li:activity:7478899006819975168/ | — |
 | 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
