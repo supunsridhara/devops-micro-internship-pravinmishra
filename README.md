@@ -134,7 +134,7 @@ Week 01 → Success Mindset
 | 01 | Success Mindset | ✅ Completed | ✅ Completed | https://www.linkedin.com/feed/update/urn:li:activity:7478878317400506368/ https://www.linkedin.com/feed/update/urn:li:activity:7478899006819975168/ | — |
 | 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Git & GitHub | 🔄 In Progress | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
