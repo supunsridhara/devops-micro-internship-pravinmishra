@@ -27,7 +27,7 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+![alt text](61.JPG)
 
 ---
 
@@ -35,7 +35,7 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+A dedicated branch keeps the work isolated from the main branch, making it safer to develop, test, and review changes without affecting the stable code. It also makes collaboration easier and allows changes to be merged only after they have been reviewed and verified.
 
 ---
 
@@ -49,7 +49,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+![alt text](62.JPG)
 
 ---
 
@@ -57,7 +57,7 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+The assignment uses a fake key to safely demonstrate how secret detection works without exposing real credentials. This allows the pre-commit hook and AI review process to be tested while following security best practices and preventing accidental leaks of sensitive information.
 
 ---
 
@@ -71,13 +71,13 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+![alt text](63.JPG)
 
 ---
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+![alt text](64.JPG)
 
 ---
 
@@ -85,13 +85,13 @@ Add your screenshot here.
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
+The hooks/pre-commit file is tracked in the repository so every team member can use the same pre-commit hook by configuring core.hooksPath. If it only existed in .git/hooks/, it would be stored only on one local machine and would not be shared through Git.
 
 ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+The Git pre-commit hook intercepts a commit before it is created and checks for problems such as hardcoded secrets or oversized files. The PreToolUse hook intercepts tool actions before they are executed in Claude Code. Both act as preventive safety checks that stop risky actions before they happen, helping to protect the project and enforce rules.
 
 ---
 
@@ -105,7 +105,7 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-Add your screenshot here.
+![alt text](65.JPG)
 
 ---
 
@@ -113,13 +113,13 @@ Add your screenshot here.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
+The line if git diff --cached | grep -E "AKIA[0-9A-Z]{16}" >/dev/null; then matched my fake key because it searches the staged changes for the pattern AKIA followed by 16 uppercase letters or numbers, which is the format used by the fake AWS access key in the assignment.
 
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No. If the secret does not match the AKIA pattern, the hook will not detect it. This shows that a fixed-rule hook can only identify patterns it has been programmed to recognize, so it cannot catch every type of secret or security issue.
 
 ---
 
@@ -133,13 +133,13 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 5 — `SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no `Write`) and `disable-model-invocation: true`
 
-Add your screenshot here.
+![alt text](66.JPG)
 
 ---
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-Add your screenshot here.
+![alt text](67.JPG)
 
 ---
 
@@ -147,13 +147,13 @@ Add your screenshot here.
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+/pr-ready has Bash and Read so it can inspect the staged changes and generate a PR readiness report. It does not have Write because it should only analyze and provide recommendations, not modify files, commit changes, or perform any actions that should remain under human control.
 
 ---
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+Both the pre-commit hook and /pr-ready detected the fake AWS key in the staged changes. The pre-commit hook blocked the commit based on its fixed rules, while /pr-ready also identified the debug statement and provided a PR readiness report with a suggested title, description, and additional review comments. The AI review offered more context and recommendations beyond the fixed-rule checks.
 
 ---
 
