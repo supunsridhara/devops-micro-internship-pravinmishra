@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![alt text](24-1.JPG)
 
 ---
 
@@ -36,17 +36,18 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 Add your answer here...
 
+The cost optimizer uses Haiku instead of Sonnet because Haiku is faster and less expensive for simple tasks. This reduces overall API costs while still providing good performance, while Sonnet is reserved for more complex tasks that require stronger reasoning capabilities.
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The security auditor does not have Write in its tools list to prevent it from modifying files. Its role is to inspect, analyze, and identify security issues without making changes, ensuring a safe and reliable audit process.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+The tf-writer uses inherit instead of a specific model so it automatically uses the model configured by the parent session or project. This provides flexibility, avoids hardcoding a particular model, and allows the tf-writer to benefit from future model changes without modifying its configuration.
 
 ---
 
@@ -54,13 +55,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![alt text](24-3.JPG)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![alt text](24-2.JPG)
 
 ---
 
