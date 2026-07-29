@@ -94,7 +94,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![alt text](24-6.JPG)
 
 ---
 
@@ -110,7 +110,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/supunsridhara`
 
 ---
 
