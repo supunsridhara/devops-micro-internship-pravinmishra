@@ -40,13 +40,13 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-Add your screenshot here.
+![alt text](533.JPG)
 
 ---
 
 #### Screenshot 4 — Successful Git commit output
 
-Add your screenshot here.
+![alt text](534.JPG)
 
 ---
 
