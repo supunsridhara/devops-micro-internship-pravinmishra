@@ -22,6 +22,7 @@ Create or access your Jira Cloud account and reach the Jira Software workspace s
 
 ![alt text](51.JPG)
 
+
 ---
 
 # Task 2 — Verify Your Atlassian Account
@@ -34,7 +35,7 @@ Confirm your email address if Atlassian requests verification.
 
 #### Screenshot 2 (if applicable) — Confirmation screen after email verification, or the inbox showing the Atlassian verification email subject
 
-Add your screenshot here.
+![alt text](52.JPG)
 
 ---
 
@@ -42,7 +43,7 @@ Add your screenshot here.
 
 If you signed up with Google and no separate email verification was required, state that here instead of a screenshot.
 
-Write your answer here.
+I created my jira account with my google account
 
 ---
 
@@ -56,7 +57,7 @@ Update your Jira profile with your full name, a job title or role (e.g. "Aspirin
 
 #### Screenshot 3 — Updated profile page showing your full name, role/title, and bio
 
-Add your screenshot here.
+![alt text](53.JPG)
 
 ---
 
