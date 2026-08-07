@@ -34,7 +34,7 @@ Create the Epic `Polish DMI Website UI & Deploy` to group the website UI and dep
 
 #### Screenshot 2 — Backlog showing the Epic panel enabled and the Epic visible
 
-Add your screenshot here.
+![alt text](522.JPG)
 
 ---
 
@@ -48,13 +48,13 @@ Create all six required Stories (S1–S6) under the Epic, assign every Story to 
 
 #### Screenshot 3 — Backlog showing the Epic and all six Stories under it
 
-Add your screenshot here.
+![alt text](523.JPG)
 
 ---
 
 #### Screenshot 4 — One opened Story showing its Story point estimate, acceptance criteria, and label
 
-Add your screenshot here.
+![alt text](524.JPG)
 
 ---
 
