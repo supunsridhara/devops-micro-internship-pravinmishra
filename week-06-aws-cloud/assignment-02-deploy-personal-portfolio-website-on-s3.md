@@ -103,7 +103,8 @@ Edit a small visible detail, re-upload it to S3, and confirm the change appears 
 
 #### Screenshot 7 (optional) — Before/after view, or a browser view showing the updated text
 
-Add your screenshot here.
+![alt text](627-1.JPG) 
+![alt text](628.JPG)
 
 ---
 
