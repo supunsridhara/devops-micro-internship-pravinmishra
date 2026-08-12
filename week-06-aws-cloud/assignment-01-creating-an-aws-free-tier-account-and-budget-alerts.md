@@ -1,3 +1,4 @@
+
 # Assignment 1 — Creating an AWS Free Tier Account & Setting Up Budget Management and Alerts
 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
@@ -30,7 +31,7 @@ In the Billing Dashboard, create a monthly Cost Budget with a name, amount, and 
 
 #### Screenshot 1 — AWS Budget setup page showing the budget name, budget amount, and alert thresholds
 
-Add your screenshot here.
+![alt text](611.JPG)
 
 ---
 
@@ -40,7 +41,7 @@ Answer the following in your own words:
 
 **1. Why is it important to set up budget alerts when using an AWS account?**
 
-Write your answer here.
+Budget alerts are important because they notify you when your AWS spending reaches a specified limit. This helps you monitor costs, avoid unexpected charges, and manage your AWS expenses effectively.
 
 ---
 
