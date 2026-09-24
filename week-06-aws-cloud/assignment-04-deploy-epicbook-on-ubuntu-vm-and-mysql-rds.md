@@ -1,6 +1,6 @@
 # Assignment 4 — Deploy EpicBook on Ubuntu VM + MySQL RDS with Secure Cloud Network
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -70,7 +70,7 @@ Add your screenshot here.
 
 ---
 
-#### Screenshot 7 — Terminal showing a successful SSH login
+#### Screenshot 7 — Terminal showing a successful SSH login with the `ubuntu@...` prompt
 
 Add your screenshot here.
 
@@ -156,7 +156,7 @@ Add your screenshot here.
 
 ---
 
-#### Screenshot 16 — `curl` output proving the backend responds
+#### Screenshot 16 — `curl` output proving the backend responds; a 200, 301, or 404 response is acceptable if the service responds
 
 Add your screenshot here.
 
@@ -196,13 +196,13 @@ Add your screenshot here.
 
 ---
 
-#### Screenshot 20 — Terminal showing a successful API call through the public endpoint
+#### Screenshot 20 — Terminal showing a successful API call through the public endpoint, such as `curl http://<EC2_PUBLIC_IP>/api/...`
 
 Add your screenshot here.
 
 ---
 
-#### Screenshot 21 — Terminal showing a successful database connectivity test (`SELECT 1;` or similar)
+#### Screenshot 21 — Terminal showing the successful database connectivity test using `SELECT 1;` or similar
 
 Add your screenshot here.
 
@@ -250,4 +250,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*
