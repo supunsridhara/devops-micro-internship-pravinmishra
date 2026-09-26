@@ -66,13 +66,13 @@ Launch an Ubuntu 20.04 instance in the public subnet with `epicbook-ec2-sg` atta
 
 #### Screenshot 6 — EC2 instance summary showing the public IPv4 address, subnet, and security group
 
-Add your screenshot here.
+![alt text](646.JPG)
 
 ---
 
 #### Screenshot 7 — Terminal showing a successful SSH login with the `ubuntu@...` prompt
 
-Add your screenshot here.
+![alt text](647.JPG)
 
 ---
 
