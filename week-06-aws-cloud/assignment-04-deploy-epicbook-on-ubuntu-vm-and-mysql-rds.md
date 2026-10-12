@@ -158,7 +158,7 @@ Clone the EpicBook repository, install backend dependencies, configure `.env` wi
 
 #### Screenshot 16 — `curl` output proving the backend responds; a 200, 301, or 404 response is acceptable if the service responds
 
-Add your screenshot here.
+![alt text](6416.JPG)
 
 ---
 
@@ -172,7 +172,7 @@ Copy the frontend files to the Nginx web root and configure Nginx to reverse-pro
 
 #### Screenshot 17 — `nginx -t` success output
 
-Add your screenshot here.
+![alt text](6417.JPG)
 
 ---
 
