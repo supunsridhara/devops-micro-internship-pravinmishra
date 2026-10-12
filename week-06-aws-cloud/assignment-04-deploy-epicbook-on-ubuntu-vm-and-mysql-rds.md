@@ -178,7 +178,7 @@ Copy the frontend files to the Nginx web root and configure Nginx to reverse-pro
 
 #### Screenshot 18 — Nginx configuration snippet showing the `/api/` reverse proxy
 
-Add your screenshot here.
+![alt text](6418.JPG)
 
 ---
 
