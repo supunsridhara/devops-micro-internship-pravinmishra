@@ -146,13 +146,13 @@ Clone the EpicBook repository, install backend dependencies, configure `.env` wi
 
 #### Screenshot 14 — Terminal showing the repository cloned and the `ls` output
 
-Add your screenshot here.
+![alt text](6414.JPG)
 
 ---
 
 #### Screenshot 15 — Terminal showing the backend running, or `ss -tulpn` showing the port open
 
-Add your screenshot here.
+![alt text](6415.JPG)
 
 ---
 
