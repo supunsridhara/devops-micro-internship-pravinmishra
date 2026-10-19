@@ -90,7 +90,7 @@ Launch a private, Multi-AZ RDS database (MySQL or PostgreSQL) using the private 
 
 #### Screenshot 10 — RDS connectivity section showing the DB Subnet Group and Security Group
 
-![alt text](6510.JPG)
+![alt text](6510..JPG)
 
 ---
 
@@ -104,7 +104,7 @@ Create a Launch Template whose user data installs the web-server runtime, deploy
 
 #### Screenshot 11 — Launch Template details showing that user data exists, including a visible snippet
 
-Add your screenshot here.
+![alt text](6511.JPG)
 
 ---
 
