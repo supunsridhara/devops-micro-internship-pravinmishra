@@ -110,7 +110,7 @@ Create a Launch Template whose user data installs the web-server runtime, deploy
 
 #### Screenshot 12 — A running instance created from the template showing that the application responds on port 80 through a local test or browser using its public IP
 
-Add your screenshot here.
+![alt text](6512.JPG)
 
 ---
 
